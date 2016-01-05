@@ -2,8 +2,8 @@
 %   The method Newton Rophsun and famley Newmark for displesmen
 %   The method finite elements for copclitment
 %   The method uoler bernoly beam for matrix mass and stiffness
-%   wighit mohamad mahdi salati AND github
-%   fo perblem impact and dynamic 
+%   wighit mohamad mahdi salati
+%   fo perblem impact and dynamic YESSSSSSSSSSS
 
 % investigation for axial loads
 %    The Plane Frame Element K M  Global Matrises
