@@ -4,6 +4,7 @@
 %   The method uoler bernoly beam for matrix mass and stiffness
 %   wighit mohamad mahdi salati
 %   fo perblem impact and dynamic YESSSSSSSSSSS
+%   :DDDDDDDDDDDDD
 
 % investigation for axial loads
 %    The Plane Frame Element K M  Global Matrises
