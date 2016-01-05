@@ -1,9 +1,8 @@
 %   IN THE NAME OF GOD
-%   YES
 %   The method Newton Rophsun and famley Newmark for displesmen
 %   The method finite elements for copclitment
 %   The method uoler bernoly beam for matrix mass and stiffness
-%   wighit mohamad mahdi salati
+%   wighit mohamad mahdi salati AND github
 %   fo perblem impact and dynamic 
 
 % investigation for axial loads
