@@ -5,7 +5,7 @@
 % static anlysis fr step load ,impact load and cretical load
 % dynamic anlysis for impact load and harmnic load and...
 % euler bernoli beam for mass matrix and stiffness matrix and damping matrix
-% newton raphson metod for analysis step gooz
+% newton raphson metod for analysis step
 % newmark family metod for analysis dynamic
 % impact : impacted mass by bar
 %               : impact load
